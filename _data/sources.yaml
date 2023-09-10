@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.1109/WACV48630.2021.00087
+- id: doi:10.1109/WACV48630.2021.00087
   title: 'Triangle-Net: Towards Robustness in Point Cloud Learning'
   authors:
   - C Xiao
@@ -12,7 +12,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: Qhiy3doAAAAJ:qjMakFHDy7sC
+- id: doi:10.1109/ROBIO49542.2019.8961790
   title: Dynamic Obstacle Avoidance for UAVs Using a Fast Trajectory Planning Approach
   authors:
   - H Chen
@@ -25,7 +25,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 10.1109/TNNLS.2021.3107742
+- id: doi:10.1109/TNNLS.2021.3107742
   title: Flying Through a Narrow Gap Using End-to-end Deep Reinforcement Learning
     Augmented with Curriculum Learning and Sim2Real
   authors:
@@ -38,7 +38,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: Qhiy3doAAAAJ:8k81kl-MbHgC
+- id: doi:10.1109/LRA.2022.3141458
   title: Nonmyopic Informative Path Planning Based on Global Kriging Variance Minimization
   authors:
   - C Xiao
@@ -49,7 +49,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 10.1109/WACV48630.2021.00230
+- id: doi:10.1109/WACV48630.2021.00230
   title: One-Shot Image Recognition Using Prototypical Encoders With Reduced Hubness
   authors:
   - C Xiao
@@ -62,7 +62,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 0.1109/TRO.2022.3182487
+- id: doi:10.1109/TRO.2022.3182487
   title: Active multiobject exploration and recognition via tactile whiskers
   authors:
   - C Xiao
@@ -75,7 +75,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 10.1109/IHMSC.2012.87
+- id: doi:10.1109/IHMSC.2012.87
   title: Intelligent Decision System Based on SOM-LVQ Neural Network for Soccer Robot
   authors:
   - B Chen
@@ -88,7 +88,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 10.1109/LRA.2021.3064211
+- id: doi:10.1109/LRA.2021.3064211
   title: 'Fingers See Things Differently (FIST-D): An Object Aware Visualization and
     Manipulation Framework Based on Tactile Observations'
   authors:
@@ -101,7 +101,7 @@
   gsid: Qhiy3doAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 10.1109/TRO.2023.3278455
+- id: doi:10.1109/TRO.2023.3278455
   title: Tactile and Chemical Sensing With Haptic Feedback for a Telepresence Explosive
     Ordnance Disposal Robot
   authors:
