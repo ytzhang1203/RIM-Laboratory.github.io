@@ -4,7 +4,7 @@
 
 # Papaemmanuil Lab's Website
 
-Visit **[papaemmelab.org](https://papaemmelab.org)** 🚀
+Visit **[rim-laboratory.github.io](https://rim-laboratory.github.io)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
