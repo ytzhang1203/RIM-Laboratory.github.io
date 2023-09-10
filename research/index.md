@@ -7,15 +7,14 @@ nav:
 
 ## Research
 
-We are driving the Pediatrics Precision Medicine Initiative for the Department of Pediatrics, and support clinical translational research for the Center for Heme Malignancies at MSK.
-
-We benefit from a fully resourced computational and research environment. We have access to state-of-the-art computing and laboratory facilities to support truly ambitious and innovative research.
+A list of publications
 
 {% include section.html %}
 
 ### Highlighted
 
-{% include citation.html lookup="Clonal evolution during metastatic spread in high-risk neuroblastoma" style="rich" %}
+{% include citation.html lookup="Nonmyopic Informative Path Planning Based on Global Kriging Variance Minimization
+" style="rich" %}
 
 {% include citation.html lookup="Molecular International Prognostic Scoring System for Myelodysplastic Syndromes" style="rich" %}
 
