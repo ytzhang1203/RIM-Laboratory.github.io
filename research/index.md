@@ -7,7 +7,7 @@ nav:
 
 ## Research
 
-A list of publications
+<!-- A list of publications -->
 
 {% include section.html %}
 
@@ -26,9 +26,9 @@ A list of publications
 
 {% include citation.html lookup="Clinical significance of SF3B1 mutations in myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms" style="rich" %} -->
 
-{% include citation.html %}
+<!-- {% include citation.html %} -->
 
-{% include section.html %}
+<!-- {% include section.html %} -->
 
 ### All
 
