@@ -3,17 +3,17 @@
 
 <!-- # The Elli Papaemmanuil Lab -->
 
-Our lab is a collective of clinical, computational, molecular and mathematic research investigators with an interest in studying the role of acquired mutations in cancer development, and how these determine clinical phenotype and response to therapy. Our mission is to execute research that informs and moves clinical practices in oncology forward. We have strong expertise in genome profiling analysis, a proven track record on the development of high-throughput laboratory and analytical pipelines (bioinformatics and statistical), and integrating large and complex genomic datasets. We have formed a strong network of research and clinical collaborations to pursue innovative studies in cancer research.
+Welcome to the Robot Interaction and Manipulation Lab! Our mission is to pioneer the development of robot skills adaptable to both residential and industrial landscapes. Our primary goal is to enhance human lives through robotics, particularly by merging robot tactile sensing and advanced manipulation capabilities. Our research portfolio spans a diverse spectrum, including sensors, motion planning, deep learning, and human-robot interaction.
 
-{%
+<!-- {%
   include figure.html
   image="images/papaemmanuil-lab.jpg"
   caption="Papaemmanuil Lab at Memorial Sloan Kettering Cancer Center. 2019."
   link="team"
   width="1000px"
-%}
+%} -->
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 {% capture text %}
 
@@ -73,12 +73,14 @@ We benefit from a fully resourced computational and research environment. We hav
 
 {% capture text %}
 
-We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists through internal and international internship schemes.
+We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists through internal and international internship schemes. -->
 
-**Join us:** We are looking for inspiring, motivated individuals to join our team, challenge our current understanding of cancer biology and help make new discoveries that will inform cancer care and improve patient outcomes.
+**Job Openings:** To support our mission, we are seeking highly motivated and skilled individuals to join our team as Research Assistants (RAs) and Postdoctoral Researchers (PostDocs). To apply, please email us with your resume and a cover letter highlighting your research interests.
 
 
-{%
+
+
+<!-- {%
   include button.html
   link="team"
   text="Meet our team"
@@ -95,4 +97,4 @@ We like to perform ambitious research, but operate in a fun, collaborative, and 
   link="team"
   title="Our Team"
   text=text
-%}
+%} -->
