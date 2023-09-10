@@ -1,7 +1,6 @@
 """
 cite process to convert sources and metasources into full citations
 """
-
 import traceback
 from importlib import import_module
 from pathlib import Path
@@ -28,8 +27,8 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["google-scholar", "pubmed", "orcid", "sources"]
-
+# plugins = ["google-scholar", "pubmed", "orcid", "sources"]
+plugins=["google-scholar"]
 # loop through plugins
 for plugin in plugins:
     # convert into path object

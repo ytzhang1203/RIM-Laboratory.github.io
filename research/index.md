@@ -13,7 +13,7 @@ A list of publications
 
 ### Highlighted
 
-{% include citation.html lookup="Nonmyopic Informative Path Planning Based on Global Kriging Variance Minimization
+<!-- {% include citation.html lookup="Nonmyopic Informative Path Planning Based on Global Kriging Variance Minimization
 " style="rich" %}
 
 {% include citation.html lookup="Molecular International Prognostic Scoring System for Myelodysplastic Syndromes" style="rich" %}
@@ -24,7 +24,9 @@ A list of publications
 
 {% include citation.html lookup="Genomic Classification and Prognosis in Acute Myeloid Leukemia" style="rich" %}
 
-{% include citation.html lookup="Clinical significance of SF3B1 mutations in myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms" style="rich" %}
+{% include citation.html lookup="Clinical significance of SF3B1 mutations in myelodysplastic syndromes and myelodysplastic/myeloproliferative neoplasms" style="rich" %} -->
+
+{% include citation.html %}
 
 {% include section.html %}
 

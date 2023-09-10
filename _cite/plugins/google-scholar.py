@@ -13,7 +13,7 @@ def main(entry):
     api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY", "")
     if not api_key:
         raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
-
+    
     # serp api properties
     params = {
         "engine": "google_scholar_author",
