@@ -7,12 +7,6 @@ nav:
 
 ## Research
 
-A list of publications
-
-{% include section.html %}
-
-### Highlighted
-{% include citation.html %}
 {% include section.html %}
 
 ### All
