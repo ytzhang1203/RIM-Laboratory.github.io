@@ -1,20 +1,20 @@
 # site properties and page defaults
-title: The Elli Papaemmanuil Lab
-subtitle: Department of Computational Oncology, Epidemiology and Biostatistics
-description: Studying the role of acquired mutations in cancer development, and how these determine clinical phenotype and response to therapy.
+title: Robot Interaction and Manipulation Lab
+subtitle: STAR center, SIST, ShanghaiTech University
+# description: We study how robot interacts with the environments and mani
 # header: images/molecular.jpg
-header: images/molecular-ai-header.png
+header: images/3d-robot-hand-background-ai-technology-side-view.jpg
 footer: images/molecular-ai-footer.png
 header-dark: true
 
 # site social media and other links
 links:
-  github: papaemmelab
-  twitter: papaemmanuillab
-  email: papaemme@mskcc.org
-  website: https://www.mskcc.org/research-areas/labs/elli-papaemmanuil
-  google-scholar: yQbbId0AAAAJ
-  orcid: 0000-0003-1709-8983
+  github: RIM-Laboratory
+  # twitter: papaemmanuillab
+  # email: papaemme@mskcc.org
+  # website: https://www.mskcc.org/research-areas/labs/elli-papaemmanuil
+  # google-scholar: yQbbId0AAAAJ
+  # orcid: 0000-0003-1709-8983
 
 ### jekyll settings
 
