@@ -10,8 +10,8 @@
   date: ''
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:YsMSGLbcyi4C
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:qjMakFHDy7sC
   title: Dynamic Obstacle Avoidance for UAVs Using a Fast Trajectory Planning Approach
   authors:
@@ -23,8 +23,8 @@
   date: '2019-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:qjMakFHDy7sC
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:roLk4NBRz8UC
   title: Flying Through a Narrow Gap Using End-to-end Deep Reinforcement Learning
     Augmented with Curriculum Learning and Sim2Real
@@ -36,8 +36,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:roLk4NBRz8UC
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:8k81kl-MbHgC
   title: Nonmyopic Informative Path Planning Based on Global Kriging Variance Minimization
   authors:
@@ -47,8 +47,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:8k81kl-MbHgC
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:eQOLeE2rZwMC
   title: One-Shot Image Recognition Using Prototypical Encoders With Reduced Hubness
   authors:
@@ -60,8 +60,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:eQOLeE2rZwMC
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:UebtZRa9Y70C
   title: Active multiobject exploration and recognition via tactile whiskers
   authors:
@@ -73,8 +73,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:UebtZRa9Y70C
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:UeHWp8X0CEIC
   title: Intelligent Decision System Based on SOM-LVQ Neural Network for Soccer Robot
   authors:
@@ -86,8 +86,8 @@
   date: '2012-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:UeHWp8X0CEIC
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:ufrVoPGSRksC
   title: 'Fingers See Things Differently (FIST-D): An Object Aware Visualization and
     Manipulation Framework Based on Tactile Observations'
@@ -99,8 +99,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:ufrVoPGSRksC
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: Qhiy3doAAAAJ:kNdYIx-mwKoC
   title: Tactile and Chemical Sensing With Haptic Feedback for a Telepresence Explosive
     Ordnance Disposal Robot
@@ -117,5 +117,5 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qhiy3doAAAAJ&pagesize=100&citation_for_view=Qhiy3doAAAAJ:kNdYIx-mwKoC
   gsid: Qhiy3doAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
