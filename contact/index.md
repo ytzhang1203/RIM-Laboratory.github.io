@@ -5,6 +5,6 @@ nav:
   tooltip: Email, address, and location
 ---
 
-## Contact
 
+## Contact
 Information to be filled.

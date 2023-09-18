@@ -7,8 +7,6 @@ nav:
 
 ## Team
 
-Our lab is a collective of clinical, computational, molecular and mathematic research investigators. We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists through internal and international internship schemes.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
