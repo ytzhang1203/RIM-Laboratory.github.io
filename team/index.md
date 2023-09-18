@@ -13,7 +13,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="status: active" %}
 
-{% include section.html background="images/lab.jpg" dark=true %}
+<!-- {% include section.html background="images/lab.jpg" dark=true %} -->
 
 {% include section.html %}
 
