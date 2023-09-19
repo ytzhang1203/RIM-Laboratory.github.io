@@ -4,7 +4,7 @@ image: images/yatao_bio.jpg
 description: Graduate Student
 status: active
 links:
-    email:  lengyt2023@shanghaitech.edu.cn
+    email:  lengyt2023[at]shanghaitech.edu.cn
 ---
 
 ### Yatao Leng

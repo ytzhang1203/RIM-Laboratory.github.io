@@ -4,7 +4,7 @@ image: images/yanming_bio.jpg
 description: Graduate Student
 status: active
 links:
-    email: shaoym2023@shanghaitech.edu.cn
+    email: shaoym2023[at]shanghaitech.edu.cn
     github: YmirSs​
 ---
 

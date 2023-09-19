@@ -3,7 +3,7 @@ name: Chenxi Xiao, PhD
 image: images/chenxi_bio.PNG
 role: pi
 links:
-  email: xiaochx@shanghaitech.edu.cn
+  email: xiaochx[at]shanghaitech.edu.cn
   google-scholar: Qhiy3doAAAAJ
 ---
 
