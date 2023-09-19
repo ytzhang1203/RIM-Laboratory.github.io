@@ -5,7 +5,7 @@ description: Graduate Student
 status: active
 links:
     email: shaoym2023@shanghaitech.edu.cn
-    github: https://github.com/YmirSs​
+    github: YmirSs​
 ---
 
 ### Yanming Shao
