@@ -1,13 +1,15 @@
 ---
-name: Hello
-image: images/chenxi_bio.PNG
+name: Yatao Leng
+image: images/yatao_bio.jpg
 description: Graduate Student
 status: active
 links:
-    email: 
+    email:  lengyt2023@shanghaitech.edu.cn
 ---
 
-### Biography
+### Yatao Leng
 {:.left}
+
+Yatao Leng is a first year Master student at ShanghaiTech University. His major is Electronic Science and Technology.
 
 
