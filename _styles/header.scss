@@ -139,7 +139,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  padding: $big-padding 20px;
+  padding: $big-padding 100px;
 
   @if $sticky {
     top: unset;
