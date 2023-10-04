@@ -1,9 +1,9 @@
 ---
 ---
 
-$logo-big: 300px;
-$logo: 80px;
-$big-padding: 100px;
+$logo-big: 200px;
+$logo: 100px;
+$big-padding: 120px;
 $collapse: 700px;
 $sticky: true;
 
@@ -129,8 +129,8 @@ header:not([data-big]) {
 
     nav {
       align-items: flex-end;
-      flex-direction: row;
-      height: 100%;
+      flex-direction: column;
+      width: 100%;
     }
   }
 }
@@ -138,15 +138,15 @@ header:not([data-big]) {
 header[data-big] {
   justify-content: center;
   align-items: center;
-  flex-direction: row;
-  padding: $big-padding 100px;
+  flex-direction: column;
+  padding: $big-padding 80px;
 
   @if $sticky {
     top: unset;
   }
 
   .home {
-    flex-direction: row;
+    flex-direction: column;
     flex-grow: 0;
   }
 
