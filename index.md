@@ -16,8 +16,7 @@ Our research interests include but are not limited to:
 
 **Openings:** We are seeking full-time Research Assistants, Research Associates, and PostDocs. If you are passionate to work with us, please email your resume to xiaochx[at]shanghaitech.edu.cn 
 
-<button name="应聘 APPLY" onclick="https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd">Click me</button>
-
+[应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}
 
 ![](images/lab-photo.PNG)
 
