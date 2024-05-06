@@ -7,7 +7,7 @@ Welcome to the Robot Interaction and Manipulation Lab! Our mission is to develop
 - We are seeking candidates for Master's program, visiting students, full-time Research Assistants, Research Associates, and PostDocs. If you are passionate to work with us, please fill in this form:
 [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}
 - <span style="color:blue"> We have a 2024 joint PhD position available with BIGAI (北京通用人工智能研究院), focusing on robot manipulation, teleoperation, and related areas (application deadline: May 29 2024). Feel free to contact us by email.  For application details, please refer to
-  [Guidelines](https://yanzhao.shanghaitech.edu.cn/2024/0428/c2420a1094332/page.htm)  </span>
+  [Guidelines (上科大研招信息)](https://yanzhao.shanghaitech.edu.cn/2024/0428/c2420a1094332/page.htm)  </span>
 
 ---
 
@@ -20,4 +20,6 @@ Our research interests include but are not limited to:
 🌐 Human-robot interaction. We explore ways to help robots collaborate with human. We are working on teleoperation systems, which allowing experts to control robots for accomplishing complex tasks from afar.
 
 
-![](images/lab-photo.PNG)
+<p align="center">
+  <img src="images/lab-photo.PNG">
+</p>
