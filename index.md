@@ -14,9 +14,9 @@ Our research interests include but are not limited to:
 
 🖐️ **Tactile sensors**. We develop tactile sensors for dexterous hands.
 
-🧠 **Manipulation skill learning**. We enable robot to learn minimally intrusive object manipulation skills through tactile sensing. 
+🧠 **Manipulation skill learning**. We enable robot to learn object manipulation skills through tactile sensing. 
 
-🌐 **Human-robot interaction**. We explore technqiues (e.g., teleoperation) that help robots collaborate with human in contact-rich environments,. 
+🌐 **Human-robot interaction**. We explore techniques (e.g., teleoperation) that help robots collaborate with human. 
 
 
 
