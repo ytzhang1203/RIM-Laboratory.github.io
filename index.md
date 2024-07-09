@@ -21,9 +21,13 @@ Our research interests include but are not limited to:
 🌐 **Human-robot interaction**. We explore techniques (e.g., teleoperation) that help robots collaborate with human. 
 
 
- 
-
+## 2024
 <p align="center">
-  <img src="images/lab-photo.PNG">
+  <img src="images/lab-photo-2024.jpg">
+</p>
+
+## 2023
+<p align="center">
+  <img src="images/lab-photo-2023.PNG">
 </p>
 
