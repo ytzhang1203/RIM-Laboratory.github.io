@@ -23,11 +23,11 @@ Our research interests include but are not limited to:
 
 ## 2024
 <p align="center">
-  <img src="images/lab-photo-2024.jpg">
+  <img src="images/lab-photo-2024.jpg" width="768px">
 </p>
 
 ## 2023
 <p align="center">
-  <img src="images/lab-photo-2023.PNG">
+  <img src="images/lab-photo-2023.PNG" width="768px">
 </p>
 
