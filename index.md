@@ -3,7 +3,7 @@
 Welcome to the Robot Interaction and Manipulation Lab! Our mission is to develop tactile sensing capabilities for humanoid robots.
 
 **Openings:** 
-- [Master Program] Our lab has 2-3 **Master program** student openings every year: 2025 保研推免，含报名中的夏令营([夏令营招生简章](https://sist.shanghaitech.edu.cn/2024/0513/c2863a1096341/page.htm)、[报名入口](https://gadmission.shanghaitech.edu.cn/enroll_student/))、统考. Feel free to shot me an email (xiaochx AT shanghaitech.edu.cn) or fill information [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}.
+- [Master Program] Our lab has 2-3 **Master program** student openings every year: 2025 保研推免([推免报名](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)、[报名入口](https://gadmission.shanghaitech.edu.cn/enroll_student/))、统考. Feel free to shot me an email (xiaochx AT shanghaitech.edu.cn) or fill information [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}.
 - [PhD program] We are collaborating with BIGAI (北京通用人工智能研究院) to admit 2025 PhD students, focusing on robot manipulation, teleoperation, and related areas. 推免直博夏令营报名中：[通计划夏令营](https://mp.weixin.qq.com/s/PgF59X2Gijm5d1-fRyTdbQ). 需要同时报名上科大夏令营。
 - [RA & PostDoc] Our lab has 2 openings for full-time **Research Assistant** and **Research Assistant Professor (or PostDoc)** [应聘 APPLY](https://l1l6pvkmmmw.feishu.cn/share/base/form/shrcnSqulK34HeHeSwWuzwVkxMd){: .button}.
 
